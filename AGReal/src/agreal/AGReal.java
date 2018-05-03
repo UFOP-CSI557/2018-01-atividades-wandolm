@@ -44,7 +44,7 @@ public class AGReal {
         int repeticoes = 30;
 
         // Parametros nao modificados
-        Double pCrossover = 0.03;
+        Double pCrossover = 0.008;
         Double pMutacao = 0.05;
 
         // Casos de teste
@@ -59,7 +59,7 @@ public class AGReal {
             for (int c = 1; c <= casos.size(); c++) {
 
                 tamanho = 50;
-                Integer geracoes = 100;
+                Integer geracoes = 300;
 
               
                 

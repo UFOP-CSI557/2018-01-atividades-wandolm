@@ -129,8 +129,8 @@ public class AlgoritmoGenetico {
             novaPopulacao.getIndividuos().clear();
 
             //Imprimir a situacao atual
-       //     System.out.println("Gen = " + g +
-         //           "\tCusto = "
+         //   System.out.println("Gen = " + g +
+             //       "\tCusto = "
            //         + populacao.getIndividuos().get(0).getFuncaoObjetivo());
         }
 
